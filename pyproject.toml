@@ -5,3 +5,4 @@ description = "docx ↔ LLM translator. Projects .docx office files to Markdown 
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # handle the edge case from the last release
+# drop an unused branch
